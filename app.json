@@ -11,7 +11,7 @@
   "window":{
     "backgroundTextStyle":"white",
     "navigationBarTextStyle": "white",
-    "navigationBarTitleText": "环球小镇",
+    "navigationBarTitleText": "mall",
     "navigationBarBackgroundColor": "#292929",
     "backgroundColor": "#F2f2f2",
     "enablePullDownRefresh": true
@@ -25,7 +25,7 @@
       "pagePath": "pages/index/index",
       "iconPath": "images/footer-icon-01.png",
       "selectedIconPath": "images/footer-icon-01-active.png",
-      "text": "极速免税"
+      "text": "首页"
     }, {
       "pagePath": "pages/classify/index",
       "iconPath": "images/footer-icon-02.png",
