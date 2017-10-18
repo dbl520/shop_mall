@@ -26,4 +26,4 @@
 微信web开发者工具 v0.9.092300
 
 ### 项目地址：
-https://github.com/dengbaoling/weixin2
+https://github.com/dengbaoling/shop_mall
